@@ -15,6 +15,7 @@ Using a dataset of **300,000 ad campaigns**, I built an end-to-end analytics pip
 ---
 
 ### **📊 The Dashboard**
+### [👉 Click here to view the Live Dashboard](https://marketing-roi-optimizer-ntgfpkxadccjyegnqfsspu.streamlit.app/)
 *An interactive decision-support tool for Marketing Directors.*
 
 <img width="1365" height="717" alt="Screenshot 2026-02-04 at 14 01 39" src="https://github.com/user-attachments/assets/889c010e-08f0-4716-a94d-a8e210edaf02" />
